@@ -1,6 +1,10 @@
 ---
 title: "Entrega grupal"
+<<<<<<< Updated upstream
 author: "C. Tangana (DNI: 00000000-X), Rosalía (DNI: 00000000-X), ..."
+=======
+author: "Cyan Morales (DNI: 02780780-B), Rosalía (DNI: 00000000-X), ..."
+>>>>>>> Stashed changes
 format:
   revealjs:
     theme: [style.scss]
